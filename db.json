@@ -1,4 +1,7 @@
 {
+ "test": {
+    "info": "Hello, YOYO!"
+  },
  "ver": {
     "name": "20230626"
   },
